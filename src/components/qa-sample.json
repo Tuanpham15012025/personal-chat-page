@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Q",
+    "text": "Why do I have less money than others?",
+    "date": "2025-07-06"
+  },
+  {
+    "type": "A",
+    "text": "Everyone has different earning power.",
+    "date": "2025-07-06"
+  },
+  {
+    "type": "Q",
+    "text": "What ports does Pi Node use?",
+    "date": "2025-07-06"
+  },
+  {
+    "type": "A",
+    "text": "Ports 31400-31409 by default.",
+    "date": "2025-07-06"
+  }
+]
